@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1290e7e.css",
+    "main.js": "/static/js/main.2c1ae146.js",
+    "static/media/TurboExp-Logo.png": "/static/media/TurboExp-Logo.a54d1fa7a94cb1485307.png",
+    "static/media/TurboExp-Logo-Black.png": "/static/media/TurboExp-Logo-Black.34df39fb9e2ac55aabe0.png",
+    "static/media/appstore-download.png": "/static/media/appstore-download.484fd36ce9a108c79adf.png",
+    "static/media/playstore-download.png": "/static/media/playstore-download.06cd10d5dcf9c3cf9cbc.png",
+    "index.html": "/index.html",
+    "main.f1290e7e.css.map": "/static/css/main.f1290e7e.css.map",
+    "main.2c1ae146.js.map": "/static/js/main.2c1ae146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1290e7e.css",
+    "static/js/main.2c1ae146.js"
+  ]
+}
